@@ -1,6 +1,5 @@
 import React, { useState, useRef } from "react";
 import "./Header.css";
-import Logo from "../../assets/logo.png";
 import Bars from "../../assets/bars.png";
 import { Link } from "react-scroll";
 import { FaSun, FaMoon } from "react-icons/fa";

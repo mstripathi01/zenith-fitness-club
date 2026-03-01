@@ -1,13 +1,10 @@
 import React, { useRef } from "react";
 import "./Footer.css";
-import Github from "../../assets/github.png";
 import YouTube from "../../assets/youtube.png";
 import Instagram from "../../assets/instagram.png";
 import LinkedIn from "../../assets/linkedin.png";
-import Logo from "../../assets/logo.png";
 import ScrollToTop from "react-scroll-to-top";
 import { FaArrowUp } from "react-icons/fa";
-// import { Link } from "react-router-dom";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { useGSAP } from "@gsap/react";
