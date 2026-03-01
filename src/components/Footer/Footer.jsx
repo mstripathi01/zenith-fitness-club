@@ -1,8 +1,8 @@
 import React, { useRef } from "react";
 import "./Footer.css";
-import YouTube from "../../assets/youtube.png";
-import Instagram from "../../assets/instagram.png";
-import LinkedIn from "../../assets/linkedin.png";
+import { YouTube } from "../../assets/youtube.png";
+import { Instagram } from "../../assets/instagram.png";
+import { LinkedIn } from "../../assets/linkedin.png";
 import ScrollToTop from "react-scroll-to-top";
 import { FaArrowUp } from "react-icons/fa";
 import gsap from "gsap";
